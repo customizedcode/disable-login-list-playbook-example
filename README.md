@@ -26,6 +26,8 @@ and compare the files mentioned above.
 License
 --------
 MIT
+
+Author
 -----
 Roy Kim
 customizedcode.us
